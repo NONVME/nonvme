@@ -1,4 +1,4 @@
-Hi, my name is Efim, I am a backend developer currently based in Siberia.
+Hi, my name is Efim, I am a backend developer currently based in Siberia 🐻.
 
 Buzzwords about my interests: python, django, testing, CI/CD.
 
