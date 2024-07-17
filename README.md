@@ -1,7 +1,7 @@
 Hi, my name is Efim
 
 ```yaml
-apiVersion: v30.0
+apiVersion: v31.0
 kind: Human
 metadata:
   name: Efim Chashin
@@ -41,6 +41,7 @@ spec:
     - Kubernetes
     - Docker
     - Ansible
+    - Terraform
     - Linux
   api_design:
     - FastAPI
@@ -59,8 +60,9 @@ spec:
     - GitLab CI/CD
   iaas_paas:
     - Heroku
-    - DO
+    - DigitalOcean
     - Yandex Cloud
+    - AWS
     - Cloudflare
   favorites:
     number: 1337
